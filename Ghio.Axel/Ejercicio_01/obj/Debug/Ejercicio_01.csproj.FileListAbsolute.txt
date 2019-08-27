@@ -1,0 +1,14 @@
+D:\VisualStudio\Ghio.Axel\Ejercicio_01\bin\Debug\Ejercicio_01.exe.config
+D:\VisualStudio\Ghio.Axel\Ejercicio_01\bin\Debug\Ejercicio_01.exe
+D:\VisualStudio\Ghio.Axel\Ejercicio_01\bin\Debug\Ejercicio_01.pdb
+D:\VisualStudio\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.exe
+D:\VisualStudio\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.pdb
+D:\VisualStudio\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.csprojAssemblyReference.cache
+D:\Ghio.Axel\Ejercicio_01\bin\Debug\Ejercicio_01.exe.config
+D:\Ghio.Axel\Ejercicio_01\bin\Debug\Ejercicio_01.exe
+D:\Ghio.Axel\Ejercicio_01\bin\Debug\Ejercicio_01.pdb
+D:\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.csprojAssemblyReference.cache
+D:\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.CoreCompileInputs.cache
+D:\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.exe
+D:\Ghio.Axel\Ejercicio_01\obj\Debug\Ejercicio_01.pdb

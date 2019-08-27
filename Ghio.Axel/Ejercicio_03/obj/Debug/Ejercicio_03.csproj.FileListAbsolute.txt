@@ -1,0 +1,7 @@
+D:\Ghio.Axel\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+D:\Ghio.Axel\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+D:\Ghio.Axel\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+D:\Ghio.Axel\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+D:\Ghio.Axel\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+D:\Ghio.Axel\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+D:\Ghio.Axel\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
